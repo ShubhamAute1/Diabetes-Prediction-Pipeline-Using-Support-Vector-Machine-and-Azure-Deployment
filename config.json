@@ -1,0 +1,6 @@
+{
+    "subscription_id": "4dc908ec-1bc5-43a6-8ddb-815c1b7e0544",
+    "resource_group": "ml-model-deployment-rg",
+    "workspace_name": "deploy-sklearn-model-ws1",
+    "region": "Central India"
+}
