@@ -1,0 +1,1 @@
+# Diabetes-Prediction-Pipeline-Using-Support-Vector-Machine-and-Azure-Deployment
