@@ -48,16 +48,16 @@ Usage
 1. Train the Model
    -Open Diabetes_model.ipynb.
    -Run all cells to:
-   Preprocess the data.
-   Train the SVM model.
-   Evaluate its accuracy.
-   Save the trained model.
+   -Preprocess the data.
+   -Train the SVM model.
+   -Evaluate its accuracy.
+   -Save the trained model.
 
 3. Deploy the Model
-   Use Azure ML Studio to deploy the trained model.
-   Note down the scoring_uri for API interaction.
+   -Use Azure ML Studio to deploy the trained model.
+   -Note down the scoring_uri for API interaction.
 
 3. Make Predictions
-   Open prediction.ipynb.
-   Update the scoring_uri with the deployed endpoint URL.
-   Run the script to make predictions.
+   -Open prediction.ipynb.
+   -Update the scoring_uri with the deployed endpoint URL.
+   -Run the script to make predictions.
