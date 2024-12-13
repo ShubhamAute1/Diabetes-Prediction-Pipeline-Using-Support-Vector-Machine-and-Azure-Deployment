@@ -46,8 +46,8 @@ Installation
 Usage
 
 1. Train the Model
-   Open Diabetes_model.ipynb.
-   Run all cells to:
+   -Open Diabetes_model.ipynb.
+   -Run all cells to:
    Preprocess the data.
    Train the SVM model.
    Evaluate its accuracy.
