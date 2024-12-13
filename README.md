@@ -22,6 +22,7 @@ Features
    Provides a script to interact with the deployed Azure API for predictions.
 
 Project Structure
+
 .
 ├── data
 │   └── diabetes.csv        # Dataset
